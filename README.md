@@ -14,10 +14,6 @@ References:
 
 [3] https://github.com/soumith/ganhacks
 
-# GAN Architecture:
-
-![GAN](./Images/GAN.PNG)
-
 # Tensorboard logs:
 
 ![Tensorboard](./Images/TensorboardLogs.png)
